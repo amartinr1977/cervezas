@@ -1,0 +1,23 @@
+{
+  "name": "curso-nodejs-amartinr-cervezas",
+  "version": "1.0.0",
+  "description": "Ejemplo de librería que genera un listado de cervezas y permite elegirlas al azar. Curso de node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amartinr1977/curso-nodejs-amartinr-cervezas.git"
+  },
+  "keywords": [
+    "curso_node",
+    "listado_cervezas"
+  ],
+  "author": "amartinromero <amartinromero@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amartinr1977/curso-nodejs-amartinr-cervezas/issues"
+  },
+  "homepage": "https://github.com/amartinr1977/curso-nodejs-amartinr-cervezas#readme"
+}
