@@ -4,7 +4,8 @@
   "description": "Ejemplo de librería que genera un listado de cervezas y permite elegirlas al azar. Curso de node",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha test/index.test.js -w",
+    "test-w": "mocha test/index.test.js -w",
+    "test": "mocha test/index.test.js",
     "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release",
     "commit": "git-cz"
